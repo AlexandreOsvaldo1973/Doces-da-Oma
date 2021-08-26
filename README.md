@@ -3,7 +3,6 @@
 <h1 align="center">Doces da Oma</h1>
 <p align="center">Esta atividade consiste em criar uma página estática de um negócio de um microempreendedor<br/>Foi utilizado PHP como back end e HTML e CSS no front end.</p>
 Tabela de Conteúdos
-=====================
 <!--ts-->
   *[Index](#index)
   *[Assets](#Assets)
