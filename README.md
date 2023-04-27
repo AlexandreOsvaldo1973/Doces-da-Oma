@@ -9,7 +9,7 @@
  
  ### Como visualizar o resultado:
  
- Para visualizar o resultado da página é necessário instalar o Xampp no seu computador.
+ Para visualizar o resultado da página é necessário instalar o Laragon (www.laragon.org) no seu computador.
  Com isso terá o Apache, o MySQL e o PHP instalado.
  No seu navegador utilize o endereço \\localhost\... no diretório que salvar o projeto.
  
